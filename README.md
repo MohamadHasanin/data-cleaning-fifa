@@ -53,7 +53,7 @@ fifa-world-cup-data-cleaning/
 ## Setup
 
 ```bash
-pip install pandas numpy jupyter
+pip install pandas numpy regex jupyter
 ```
 
 Then open notebooks in this order:
